@@ -1,0 +1,6 @@
+{
+  "name": "ATLAS",
+  "description": "The World Map of Human Knowledge. Spatial exploration of ideas, communities, and conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
